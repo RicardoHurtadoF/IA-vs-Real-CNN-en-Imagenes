@@ -12,7 +12,8 @@
 
 *Clasificación binaria de imágenes reales vs. generadas por IA usando Deep Learning*
 
-[🚀 Demo en vivo]((https://huggingface.co/spaces/VickyVaporub/ProyectoAM)) · [📓 Notebook](#-estructura-del-proyecto) · [📊 Resultados](#-resultados)
+[🚀 Demo en vivo](https://huggingface.co/spaces/VickyVaporub/ProyectoAM)· [📓 Notebook](#-estructura-del-proyecto) · [📊 Resultados](#-resultados)
+
 
 </div>
 
