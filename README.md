@@ -117,6 +117,9 @@ Implementación en Keras con patches de 8×8 y Multi-Head Self-Attention. Sin co
 | `10` | Despliegue automático a HuggingFace Spaces |
 
 ---
+## DEMO
+para probar el modelo sin ejecutar el notebook puedes hacerlo en [este link](https://huggingface.co/spaces/VickyVaporub/ProyectoAM)·
+
 ### Ejecutar en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/detector-ia-vs-real/blob/main/ProyectoFinal2_AIvsReal.ipynb)
