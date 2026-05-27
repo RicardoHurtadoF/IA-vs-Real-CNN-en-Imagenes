@@ -12,7 +12,7 @@
 
 *Clasificación binaria de imágenes reales vs. generadas por IA usando Deep Learning*
 
-[🚀 Demo en vivo](#-demo) · [📓 Notebook](#-estructura-del-proyecto) · [📊 Resultados](#-resultados)
+[🚀 Demo en vivo]((https://huggingface.co/spaces/VickyVaporub/ProyectoAM)) · [📓 Notebook](#-estructura-del-proyecto) · [📊 Resultados](#-resultados)
 
 </div>
 
@@ -116,28 +116,6 @@ Implementación en Keras con patches de 8×8 y Multi-Head Self-Attention. Sin co
 | `10` | Despliegue automático a HuggingFace Spaces |
 
 ---
-
-## 🚀 Demo
-
-La aplicación permite subir cualquier imagen y recibe:
-- Probabilidad de ser **generada por IA**
-- Probabilidad de ser una imagen **real**
-- Veredicto visual con nivel de confianza
-
-### Ejecutar localmente
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/detector-ia-vs-real.git
-cd detector-ia-vs-real
-
-# 2. Instalar dependencias
-pip install -r requirements.txt
-
-# 3. Ejecutar la app (requiere el modelo .keras generado previamente)
-python app.py
-```
-
 ### Ejecutar en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/detector-ia-vs-real/blob/main/ProyectoFinal2_AIvsReal.ipynb)
@@ -193,14 +171,14 @@ pandas
 
 ## 👥 Equipo
 
-| Nombre | Rol |
-|--------|-----|
+| Nombre |
+|--------|
 | Catalina Polo Pachón 
 | Ricardo Andres Hurtado Forero
 | Victoria Elizabeth Roa González
 | Javier Felipe Aldana Jaramillo 
 
-**Pontificia Universidad Javeriana** · Ingeniería de Sistemas · Técnicas de Aprendizaje de Máquina · Mayo 2026
+**Pontificia Universidad Javeriana** · Técnicas de Aprendizaje de Máquina · Mayo 2026
 
 ---
 
